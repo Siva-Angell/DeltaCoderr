@@ -1,13 +1,13 @@
-### Hi there 👋, I'm Subodh! (AKA DeltaCoderr).
+### Hi there 👋, I'm Subodh! (AKA Siva-Angell).
 
 <br/>
-<a href="https://www.instagram.com/delta_5621/">
+<a href="https://www.instagram.com/angell">
   <img align="left" alt="Subodh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://discord.com/users/552814506070507531">
     <img align ="left" alt="Subodh's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a>
-  <a href="https://twitter.com/Delta_562">
+  <a href="https://twitter.com/Angell">
     <img align ="left" alt="Subodh's Twitter " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
 
@@ -17,7 +17,7 @@
 
 ![Discord](https://discord.c99.nl/widget/theme-3/552814506070507531.png)
 
-Hey, I'm Subodh Inamdar, a Web Developer 🚀, Back End Developer & Discord Bot Developer from India. ~~And a Weeb.~~
+Hey, I'm Siva-Angell, a Web Developer 🚀, Back End Developer & Discord Bot Developer from India. ~~And a Weeb.~~
 
  **Information:**
 
@@ -26,7 +26,7 @@ Hey, I'm Subodh Inamdar, a Web Developer 🚀, Back End Developer & Discord Bot 
 - 👯 I’m looking to collaborate on **More Open Source Projects.**
 - 🤔 I’m looking for help with  **Data Structures and DP stuff.**
 - 💬 Ask me about  Anything related to **Tech and Anime.**
-- 📫 Contact me at :  **subodhinamdar99@gmail.com.**
+- 📫 Contact me at :  **No Conected.**
 - 😄 Pronouns :  **He/Him.**
 - ⚡ Fun fact : **JavaScript >>>> Python.**
 
@@ -51,8 +51,8 @@ Hey, I'm Subodh Inamdar, a Web Developer 🚀, Back End Developer & Discord Bot 
 **Stats:**  
 
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=DeltaCoderr&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=deltacoderr&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaCoderr&theme=tokyonight&hide=batchfile">
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Angell&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=angell&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaCoderr&theme=tokyonight&hide=batchfile">
 
 
 
