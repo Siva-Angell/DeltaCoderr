@@ -1,23 +1,23 @@
-### Hi there 👋, I'm Subodh! (AKA DeltaCoderr).
+### Hi there 👋, I'm Subodh! (AKA Siva-Angell).
 
 <br/>
-<a href="https://www.instagram.com/delta_5621/">
-  <img align="left" alt="Subodh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/angell">
+  <img align="left" alt="Angell's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://discord.com/users/552814506070507531">
-    <img align ="left" alt="Subodh's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<a href="https://discord.com/users/776494689703559208">
+    <img align ="left" alt="Angell's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a>
-  <a href="https://twitter.com/Delta_562">
-    <img align ="left" alt="Subodh's Twitter " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <a href="https://twitter.com/angell">
+    <img align ="left" alt="Angell's Twitter " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
 
-![](https://visitors-badge.glitch.me/badge?page_id=deltacoderr.deltacoderr)
+![](https://visitors-badge.glitch.me/badge?page_id=angell.angell)
 
 <br/>
 
 ![Discord](https://discord.c99.nl/widget/theme-3/552814506070507531.png)
 
-Hey, I'm Subodh Inamdar, a Web Developer 🚀, Back End Developer & Discord Bot Developer from India. ~~And a Weeb.~~
+Hey, I'm Siva-Angell, a Web Developer 🚀, Back End Developer & Discord Bot Developer from Duhok. ~~And a Weeb.~~
 
  **Information:**
 
@@ -26,7 +26,7 @@ Hey, I'm Subodh Inamdar, a Web Developer 🚀, Back End Developer & Discord Bot 
 - 👯 I’m looking to collaborate on **More Open Source Projects.**
 - 🤔 I’m looking for help with  **Data Structures and DP stuff.**
 - 💬 Ask me about  Anything related to **Tech and Anime.**
-- 📫 Contact me at :  **subodhinamdar99@gmail.com.**
+- 📫 Contact me at :  **No Contact.**
 - 😄 Pronouns :  **He/Him.**
 - ⚡ Fun fact : **JavaScript >>>> Python.**
 
@@ -52,7 +52,7 @@ Hey, I'm Subodh Inamdar, a Web Developer 🚀, Back End Developer & Discord Bot 
 
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=DeltaCoderr&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=deltacoderr&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaCoderr&theme=tokyonight&hide=batchfile">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=deltacoderr&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-Angell&theme=tokyonight&hide=batchfile">
 
 
 
